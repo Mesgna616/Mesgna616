@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 
 -->
 ### :hammer_and_wrench: Languages and Tools :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mesgna616)](https://github.com/Mesgna616/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=ruby)](https://github.com/anuraghazra/github-readme-stats)
